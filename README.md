@@ -1,4 +1,4 @@
-# How to bypass mi account of xiaomi devices up to MIUI13
+# How to bypass mi account of xiaomi devices up to MIUI 13.14
 How to bypass mi account of xiaomi devices up to MIUI13 and disable OTA Update with adb method
 
 * first boot device to normal mode and enable adb
